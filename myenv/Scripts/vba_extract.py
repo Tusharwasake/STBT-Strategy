@@ -1,4 +1,4 @@
-#!E:\Tushar_code\Streamlit\myenv\Scripts\python.exe
+#!E:\Tushar_code\Streamlit\Stbt_bnf_streamlit\myenv\Scripts\python.exe
 
 ##############################################################################
 #
