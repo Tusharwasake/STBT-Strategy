@@ -47,7 +47,7 @@ def fetch_pnl_details():
 pnl_details = fetch_pnl_details()
 
 # Streamlit app layout
-st.title("Trading Strategy Performance Dashboard")
+st.title("STBT Trading Strategy Performance Dashboard")
 
 if pnl_details.empty:
     st.error("No valid data available for display. Please check the data source.")
